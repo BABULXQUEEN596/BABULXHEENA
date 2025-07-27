@@ -1,7 +1,7 @@
 <h1 align="center"><b>𝗤𝗨𝗘𝗘𝗡-𝗠𝗨𝗦𝗜𝗖 🎧</b></h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/f8i9s1.jpg" width="500"/>
+  <img src="https://files.catbox.moe/cjm5h0.jpg" width="500"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ### 🌐 Deploy Method:
 
 #### 🚀 Deploy on Heroku
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/ASIFXQUEEN903/XQUEEN-MUSIC--903)
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/BABULXQUEEN596/X_QUEEN)
 
 ---
 
