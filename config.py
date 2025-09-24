@@ -32,14 +32,14 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/BABULXQUEEN596/X_QUEEN",
+    "https://github.com/BABULXQUEEN596/BABULXHEENA",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "XQUEEN")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BOSS_OF_BABUL")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BABUL_ON_OH")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+VHLrf5Nr1U1mZGJk")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
@@ -78,21 +78,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/izedti.mp4"
+    "START_IMG_URL", "https://files.catbox.moe/f1pzhp.mp4"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/izedti.mp4"
+    "PING_IMG_URL", "https://files.catbox.moe/f1pzhp.mp4"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/uyz0yc.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/uyz0yc.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/uyz0yc.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/uyz0yc.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/uyz0yc.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/uyz0yc.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/uyz0yc.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/uyz0yc.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/uyz0yc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/uyz0yc.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/622p8u.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/zuaks6.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/zuaks6.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/zuaks6.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/622p8u.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/622p8u.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/lsum20.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/lsum20.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/lsum20.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/lsum20.jpg"
 
 
 def time_to_seconds(time):
